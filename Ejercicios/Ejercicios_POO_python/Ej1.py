@@ -15,7 +15,7 @@ persona1 = Persona()
 persona1.setNombre("Lucas")
 print(persona1.getNombre())
 
-#Se crea el objeto persona1, se le asigna nombre y se muestra en pantalla
+#Se crea el objeto persona2, se le asigna nombre y se muestra en pantalla
 persona2 = Persona()
 
 persona2.setNombre("Martin")
